@@ -5,4 +5,4 @@ AWS Lambda Hello class from AWS doco
   * Micronaut
   * Logback as seen in the main method Contet argument
   * Lambda the int myCount
-  * Local Intellij Run button executes this my AWS IAM account.
+  * Local Intellij Run button executes this on my AWS IAM account.
